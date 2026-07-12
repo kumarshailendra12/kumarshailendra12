@@ -1,147 +1,316 @@
-
 # Hi there, I'm Shailendra Kumar 👋
 
-## 🚀 DevOps Engineer | AWS Cloud | Kubernetes | CI/CD
+# 🚀 Senior DevOps | Platform Engineer | Cloud & Kubernetes Enthusiast
 
-I'm a passionate DevOps Engineer with **6+ years of IT experience** specializing in building scalable, secure, and automated cloud infrastructure. I enjoy solving infrastructure challenges, streamlining deployments, and improving application reliability through DevOps best practices.
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=kumarshailendra12&show_icons=true&theme=github_dark">
 
----
+I'm a passionate **DevOps Engineer with 6+ years of experience** in designing, automating, and managing cloud-native infrastructure. I specialize in building scalable CI/CD pipelines, Kubernetes platforms, Infrastructure as Code, cloud automation, security, and observability.
 
-## 👨‍💻 About Me
-
-- 🔭 DevOps Engineer with 6+ years of experience
-- ☁️ Experienced with AWS Cloud Services
-- 🐳 Building and managing containerized applications using Docker & Kubernetes
-- ⚙️ Automating infrastructure using Terraform and CloudFormation
-- 🚀 Designing and maintaining CI/CD pipelines with Jenkins and GitHub Actions
-- 🐧 Strong Linux administration and Shell scripting skills
-- 📈 Passionate about Infrastructure as Code, Automation, and Cloud Security
-- 🌱 Always learning new cloud-native technologies
+I'm passionate about automation, platform engineering, DevSecOps, and helping development teams deliver software faster and more reliably.
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
 
-### ☁️ Cloud
-- AWS (EC2, VPC, IAM, S3, RDS, Route53, CloudWatch, ECS, EKS, Lambda)
+- 💼 DevOps Engineer with 6+ years of experience
+- ☁️ AWS Cloud Infrastructure & Platform Engineering
+- ☸️ Kubernetes (EKS, AKS, GKE, OpenShift)
+- 🚀 CI/CD Automation & GitOps
+- 🐳 Docker & Containerization
+- 🏗️ Infrastructure as Code (Terraform, CloudFormation)
+- 🔐 DevSecOps & Cloud Security
+- 📈 Monitoring, Logging & Observability
+- 🤖 AI-assisted DevOps & Automation
+- 🌱 Always learning modern Cloud Native technologies
 
-### 🚀 DevOps
-- Docker
+---
+
+# 🛠️ Tech Stack
+
+## ☁️ Cloud Platforms
+
+- AWS
+- Azure
+- Google Cloud Platform (GCP)
+
+### AWS Services
+
+- EC2
+- IAM
+- VPC
+- Route53
+- ALB
+- NLB
+- Auto Scaling
+- S3
+- CloudFront
+- ECR
+- ECS
+- EKS
+- Lambda
+- API Gateway
+- CloudWatch
+- CloudTrail
+- Config
+- GuardDuty
+- Security Hub
+- Secrets Manager
+- Systems Manager (SSM)
+- KMS
+- RDS
+- DynamoDB
+- SNS
+- SQS
+
+---
+
+## ☸️ Kubernetes Ecosystem
+
 - Kubernetes
-- Terraform
-- CloudFormation
+- Amazon EKS
+- Azure AKS
+- Google GKE
+- Helm
+- Kustomize
+- ArgoCD
+- FluxCD
+- Istio
+- NGINX Ingress
+- Gateway API
+- HPA
+- VPA
+- KEDA
+- Cluster Autoscaler
+- Metrics Server
+- Cert Manager
+
+---
+
+## 🚀 DevOps
+
+- Docker
+- Podman
 - Jenkins
 - GitHub Actions
+- GitLab CI
+- Azure DevOps
+- CircleCI
+- Terraform
+- OpenTofu
+- Terragrunt
+- CloudFormation
 - Ansible
+- Packer
 
-### 💻 Programming & Scripting
-- Bash
-- Python
-- YAML
+---
 
-### 🐧 Operating Systems
-- Linux (Ubuntu, CentOS, Amazon Linux)
+## 🔐 DevSecOps
 
-### 📦 Version Control
-- Git
-- GitHub
+- Trivy
+- SonarQube
+- Snyk
+- Checkov
+- OWASP Dependency Check
+- Gitleaks
+- HashiCorp Vault
+- External Secrets Operator
 
-### 📊 Monitoring & Logging
+---
+
+## 📊 Monitoring & Observability
+
 - Prometheus
 - Grafana
+- Loki
+- Tempo
+- Alertmanager
+- ELK Stack
+- Fluent Bit
+- OpenTelemetry
+- Jaeger
 - CloudWatch
+- Datadog
+- New Relic
 
 ---
 
-## 📂 Featured Projects
+## 💻 Programming & Scripting
 
-🚀 Terraform AWS Infrastructure
-
-- Multi-Environment Infrastructure
-- Remote State Management
-- Modular Terraform Code
-
----
-
-🐳 Kubernetes Deployment
-
-- Deployments
-- Services
-- Ingress
-- ConfigMaps
-- Secrets
-- Persistent Volumes
+- Python
+- Bash
+- Shell
+- YAML
+- JSON
+- Go (Learning)
 
 ---
 
-⚙️ CI/CD Pipeline
+## 📦 Version Control
 
-- Jenkins Pipelines
+- Git
+- GitHub
+- GitLab
+- Bitbucket
+
+---
+
+## 🐧 Operating Systems
+
+- Ubuntu
+- RedHat
+- CentOS
+- Amazon Linux
+- Rocky Linux
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ AWS Landing Zone using Terraform
+
+- Multi Account AWS Organization
+- IAM Identity Center (SSO)
+- Remote State
+- VPC
+- ECS
+- EKS
+- RDS
+- CloudFront
+- WAF
+- Route53
+
+---
+
+## ☸️ Production Kubernetes Platform
+
+- Helm Charts
+- ArgoCD GitOps
+- KEDA Autoscaling
+- Ingress Controller
+- Cert Manager
+- External Secrets
+- Monitoring Stack
+- Logging Stack
+
+---
+
+## 🚀 End-to-End CI/CD Pipeline
+
 - GitHub Actions
-- Docker Image Build
+- Jenkins
+- Docker Build
+- Trivy Scan
+- SonarQube Analysis
+- Terraform Deployment
 - Kubernetes Deployment
+- Slack Notifications
 
 ---
 
-🐧 Linux Automation Scripts
+## 🔐 DevSecOps Pipeline
 
-- Disk Monitoring
-- Backup Scripts
+- Secret Scanning
+- IaC Security
+- Container Security
+- Code Quality
+- Security Gates
+
+---
+
+## 📊 Observability Platform
+
+- Prometheus
+- Grafana
+- Loki
+- Tempo
+- OpenTelemetry
+
+---
+
+## 🤖 AI-Powered DevOps
+
+- Amazon Q
+- GitHub Copilot
+- OpenAI API Automation
+- AI Release Notes Generator
+- AI Incident Summarizer
+
+---
+
+## 🐧 Linux Automation
+
+- Server Health Monitoring
 - Log Rotation
-- Health Checks
-- Cron Jobs
+- Backup & Restore
+- Auto Scaling Scripts
+- Cost Optimization Scripts
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-- Argo CD
-- Helm
-- Azure DevOps
-- GitOps
+- Platform Engineering
+- Backstage
+- Crossplane
+- OpenTofu
+- Cilium
+- eBPF
+- AI for DevOps
+- FinOps
 - Kubernetes Security
+- Service Mesh
+- MCP Servers
+- Agentic AI
 
 ---
 
-## 🎯 Areas of Interest
+# 🎯 Areas of Interest
 
-- Cloud Architecture
-- DevOps Automation
-- Infrastructure as Code
+- Platform Engineering
+- Cloud Native
 - Kubernetes
-- Site Reliability Engineering (SRE)
+- GitOps
+- DevSecOps
+- AI in DevOps
+- Infrastructure as Code
+- Site Reliability Engineering
+- Observability
 - Cloud Security
+- FinOps
 
 ---
 
-## 📈 GitHub Goals
+# 📜 Certifications
 
-- ✅ Build production-ready DevOps projects
-- ✅ Share reusable automation scripts
-- ✅ Contribute to Open Source
-- ✅ Learn new cloud technologies every month
-
----
-
-## 🤝 Connect with Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/shailendra-kumar-8946b9212
-- 📧 Email: kumarshailendra10598@gmail.com
+- AWS Certified (Add Yours)
+- Kubernetes (CKA - In Progress)
+- Terraform Associate (Planned)
+- Azure AZ-104 (Planned)
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
-<!--
-**kumarshailendra12/kumarshailendra12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📊 GitHub Goals
 
-Here are some ideas to get you started:
+- 🚀 Build Production-Ready Cloud Projects
+- ⭐ Contribute to Open Source
+- ☁️ Share Enterprise Terraform Modules
+- ☸️ Publish Kubernetes Projects
+- 🤖 Build AI-powered DevOps Tools
+- 📖 Write Technical Documentation
+- 🔥 Upload New Projects Every Month
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/shailendra-kumar-8946b9212
+
+📧 Email: kumarshailendra10598@gmail.com
+
+🌍 Portfolio: https://yourportfolio.com
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
+
+If you like my work, don't forget to ⭐ my repositories and connect with me.
