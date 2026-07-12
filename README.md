@@ -282,7 +282,7 @@ I'm passionate about automation, platform engineering, DevSecOps, and helping de
 
 # 📜 Certifications
 
-- AWS Certified (Add Yours)
+- AWS Certified Solution Architect Associate
 - Kubernetes (CKA - In Progress)
 - Terraform Associate (Planned)
 - Azure AZ-104 (Planned)
@@ -307,7 +307,6 @@ I'm passionate about automation, platform engineering, DevSecOps, and helping de
 
 📧 Email: kumarshailendra10598@gmail.com
 
-🌍 Portfolio: https://yourportfolio.com
 
 ---
 
