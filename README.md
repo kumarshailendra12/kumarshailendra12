@@ -125,8 +125,8 @@ I'm a passionate DevOps Engineer with **6+ years of IT experience** specializing
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: *Add your LinkedIn profile here*
-- 📧 Email: *Add your professional email here*
+- 💼 LinkedIn: https://www.linkedin.com/in/shailendra-kumar-8946b9212
+- 📧 Email: kumarshailendra10598@gmail.com
 
 ---
 
