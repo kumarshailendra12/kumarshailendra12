@@ -129,12 +129,10 @@ alt="Contribution Graph" />
 ## 💻 Top Languages
 
 <p align="center">
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshailendra12&layout=compact&langs_count=8&hide=html,css&theme=tokyonight&hide_border=true" 
-alt="DevOps Top Languages" />
-</p>
-
+<a href="https://github.com/kumarshailendra12">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshailendra12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&border_radius=10" 
+alt="Shailendra Kumar Top Languages" />
+</a>
 </p>
 
 ## 🌐 Connect --With --Me
