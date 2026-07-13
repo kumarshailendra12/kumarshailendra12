@@ -1,315 +1,39 @@
-# Hi there, I'm Shailendra Kumar 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is SHAILENDRA KUMAR
+=========================================================================================================================================
 
-# 🚀 Senior DevOps | Platform Engineer | Cloud & Kubernetes Enthusiast
+DevOps Engineer | AWS Cloud | Kubernetes | CI/CD Automation
+-----------------------------------------------------------
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=kumarshailendra12&show_icons=true&theme=github_dark">
+I’m \*\*Shailendra Kumar\*\*, a \*\*DevOps Engineer\*\* with \*\*6+ years of IT experience\*\* specializing in cloud infrastructure, automation, and CI/CD pipelines. My expertise lies in designing, implementing, and managing scalable, secure, and highly available solutions on AWS.
 
-I'm a passionate **DevOps Engineer with 6+ years of experience** in designing, automating, and managing cloud-native infrastructure. I specialize in building scalable CI/CD pipelines, Kubernetes platforms, Infrastructure as Code, cloud automation, security, and observability.
+I have hands-on experience with \*\*AWS, Docker, Kubernetes (AKS/EKS), Terraform, Jenkins, Git, Linux, Ansible, Helm, and monitoring tools such as Prometheus and Grafana\*\*. I enjoy automating repetitive tasks, improving deployment processes, and building reliable infrastructure using Infrastructure as Code (IaC).
 
-I'm passionate about automation, platform engineering, DevSecOps, and helping development teams deliver software faster and more reliably.
+Throughout my career, I have worked on deploying and managing microservices, container orchestration, cloud migrations, infrastructure automation, and production support. I am passionate about DevOps culture, continuous learning, and adopting modern cloud technologies to deliver high-quality, efficient, and resilient systems.
 
----
+When I'm not working, I enjoy exploring new cloud services, learning emerging DevOps tools, contributing to technical discussions, and sharing knowledge with the community. My goal is to build innovative cloud solutions that help organizations deliver software faster, more securely, and with greater reliability.
 
-# 👨‍💻 About Me
+* 🌍  I'm based in India
+* ✉️  You can contact me at [kumarshailendra10598@gmail.com](mailto:kumarshailendra10598@gmail.com)
+* 🚀  I'm currently working on [NTTDATA Services PVT LTD](http://www.nttdata.com)
+* 🧠  I'm currently learning AWS DevOps, Kubernetes, Terraform, GitOps (Argo CD), and AI for DevOps
+* 👥  I'm looking to collaborate on Cloud infrastructure, DevOps automation, Kubernetes deployments, Terraform modules, CI/CD pipelines, Infrastructure as Code (IaC), monitoring solutions, and open-source DevOps projects.
+* 💬  Ask me about Always learning, always automating. Open to networking, knowledge sharing, technical discussions, and exciting DevOps opportunities.
 
-- 💼 DevOps Engineer with 6+ years of experience
-- ☁️ AWS Cloud Infrastructure & Platform Engineering
-- ☸️ Kubernetes (EKS, AKS, GKE, OpenShift)
-- 🚀 CI/CD Automation & GitOps
-- 🐳 Docker & Containerization
-- 🏗️ Infrastructure as Code (Terraform, CloudFormation)
-- 🔐 DevSecOps & Cloud Security
-- 📈 Monitoring, Logging & Observability
-- 🤖 AI-assisted DevOps & Automation
-- 🌱 Always learning modern Cloud Native technologies
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle" title="Oracle" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+</p>
 
----
+### Socials
 
-# 🛠️ Tech Stack
+<p align="left"> <a href="https://www.github.com/kumarshailendra12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/kumarshailendra12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.linkedin.com/in/shailendra-kumar-8946b9212" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+<a href="https://www.github.com/kumarshailendra12" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kumarshailendra12?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Badges
 
-## ☁️ Cloud Platforms
+<b>My GitHub Stats</b>
 
-- AWS
-- Azure
-- Google Cloud Platform (GCP)
+<a href="http://www.github.com/kumarshailendra12"><img src="https://github-readme-stats.vercel.app/api?username=kumarshailendra12&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kumarshailendra12's GitHub stats" /></a>
 
-### AWS Services
+<a href="http://www.github.com/kumarshailendra12"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarshailendra12&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-- EC2
-- IAM
-- VPC
-- Route53
-- ALB
-- NLB
-- Auto Scaling
-- S3
-- CloudFront
-- ECR
-- ECS
-- EKS
-- Lambda
-- API Gateway
-- CloudWatch
-- CloudTrail
-- Config
-- GuardDuty
-- Security Hub
-- Secrets Manager
-- Systems Manager (SSM)
-- KMS
-- RDS
-- DynamoDB
-- SNS
-- SQS
-
----
-
-## ☸️ Kubernetes Ecosystem
-
-- Kubernetes
-- Amazon EKS
-- Azure AKS
-- Google GKE
-- Helm
-- Kustomize
-- ArgoCD
-- FluxCD
-- Istio
-- NGINX Ingress
-- Gateway API
-- HPA
-- VPA
-- KEDA
-- Cluster Autoscaler
-- Metrics Server
-- Cert Manager
-
----
-
-## 🚀 DevOps
-
-- Docker
-- Podman
-- Jenkins
-- GitHub Actions
-- GitLab CI
-- Azure DevOps
-- CircleCI
-- Terraform
-- OpenTofu
-- Terragrunt
-- CloudFormation
-- Ansible
-- Packer
-
----
-
-## 🔐 DevSecOps
-
-- Trivy
-- SonarQube
-- Snyk
-- Checkov
-- OWASP Dependency Check
-- Gitleaks
-- HashiCorp Vault
-- External Secrets Operator
-
----
-
-## 📊 Monitoring & Observability
-
-- Prometheus
-- Grafana
-- Loki
-- Tempo
-- Alertmanager
-- ELK Stack
-- Fluent Bit
-- OpenTelemetry
-- Jaeger
-- CloudWatch
-- Datadog
-- New Relic
-
----
-
-## 💻 Programming & Scripting
-
-- Python
-- Bash
-- Shell
-- YAML
-- JSON
-- Go (Learning)
-
----
-
-## 📦 Version Control
-
-- Git
-- GitHub
-- GitLab
-- Bitbucket
-
----
-
-## 🐧 Operating Systems
-
-- Ubuntu
-- RedHat
-- CentOS
-- Amazon Linux
-- Rocky Linux
-
----
-
-# 🚀 Featured Projects
-
-## ☁️ AWS Landing Zone using Terraform
-
-- Multi Account AWS Organization
-- IAM Identity Center (SSO)
-- Remote State
-- VPC
-- ECS
-- EKS
-- RDS
-- CloudFront
-- WAF
-- Route53
-
----
-
-## ☸️ Production Kubernetes Platform
-
-- Helm Charts
-- ArgoCD GitOps
-- KEDA Autoscaling
-- Ingress Controller
-- Cert Manager
-- External Secrets
-- Monitoring Stack
-- Logging Stack
-
----
-
-## 🚀 End-to-End CI/CD Pipeline
-
-- GitHub Actions
-- Jenkins
-- Docker Build
-- Trivy Scan
-- SonarQube Analysis
-- Terraform Deployment
-- Kubernetes Deployment
-- Slack Notifications
-
----
-
-## 🔐 DevSecOps Pipeline
-
-- Secret Scanning
-- IaC Security
-- Container Security
-- Code Quality
-- Security Gates
-
----
-
-## 📊 Observability Platform
-
-- Prometheus
-- Grafana
-- Loki
-- Tempo
-- OpenTelemetry
-
----
-
-## 🤖 AI-Powered DevOps
-
-- Amazon Q
-- GitHub Copilot
-- OpenAI API Automation
-- AI Release Notes Generator
-- AI Incident Summarizer
-
----
-
-## 🐧 Linux Automation
-
-- Server Health Monitoring
-- Log Rotation
-- Backup & Restore
-- Auto Scaling Scripts
-- Cost Optimization Scripts
-
----
-
-# 📚 Currently Learning
-
-- Platform Engineering
-- Backstage
-- Crossplane
-- OpenTofu
-- Cilium
-- eBPF
-- AI for DevOps
-- FinOps
-- Kubernetes Security
-- Service Mesh
-- MCP Servers
-- Agentic AI
-
----
-
-# 🎯 Areas of Interest
-
-- Platform Engineering
-- Cloud Native
-- Kubernetes
-- GitOps
-- DevSecOps
-- AI in DevOps
-- Infrastructure as Code
-- Site Reliability Engineering
-- Observability
-- Cloud Security
-- FinOps
-
----
-
-# 📜 Certifications
-
-- AWS Certified Solution Architect Associate
-- Kubernetes (CKA - In Progress)
-- Terraform Associate (Planned)
-- Azure AZ-104 (Planned)
-
----
-
-# 📊 GitHub Goals
-
-- 🚀 Build Production-Ready Cloud Projects
-- ⭐ Contribute to Open Source
-- ☁️ Share Enterprise Terraform Modules
-- ☸️ Publish Kubernetes Projects
-- 🤖 Build AI-powered DevOps Tools
-- 📖 Write Technical Documentation
-- 🔥 Upload New Projects Every Month
-
----
-
-# 📫 Connect With Me
-
-💼 LinkedIn: https://linkedin.com/in/shailendra-kumar-8946b9212
-
-📧 Email: kumarshailendra10598@gmail.com
-
-
----
-
-⭐ Thanks for visiting my GitHub profile!
-
-If you like my work, don't forget to ⭐ my repositories and connect with me.
+<a href="https://github.com/kumarshailendra12" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshailendra12&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
