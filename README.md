@@ -1,8 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is SHAILENDRA KUMAR
-=========================================================================================================================================
 
-DevOps Engineer | AWS Cloud | Kubernetes | CI/CD Automation
------------------------------------------------------------
+<h1 align="center">
+  Hey Everyone 👋, I'm <b>SHAILENDRA KUMAR</b>
+</h1>
+
+<h3 align="center">
+  🚀 DevOps Engineer | ☁️ AWS Cloud | ☸️ Kubernetes | 🔄 CI/CD Automation
+</h3>
+
+<p align="center">
+  Building scalable cloud infrastructure, automating deployments, and improving reliability through DevOps practices.
+</p>
+
+
 
 ## 👨‍💻 About Me
 
