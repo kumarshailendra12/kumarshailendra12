@@ -135,15 +135,32 @@ Passionate about cloud technologies, continuous learning, and building efficient
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" alt="Oracle Database" title="Oracle Database" width="40" height="40" /></a>
 </p>
 
-### Socials
+&nbsp;&nbsp;
 
+## 📌 GitHub Profile Summary
 
-</p>
+<p align="center">
 
-<a href="https://github.com/kumarshailendra12">
-<img src="https://img.shields.io/github/followers/kumarshailendra12?label=Followers&style=for-the-badge&logo=github&color=0891b2" />
+<a href="https://github.com/kumarshailendra12?tab=followers">
+<img src="https://img.shields.io/github/followers/kumarshailendra12?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=181717" />
 </a>
 
+
+
+<a href="https://github.com/kumarshailendra12">
+<img src="https://img.shields.io/badge/Profile%20Updated-July%202026-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+
+
+<a href="https://github.com/kumarshailendra12">
+<img src="https://komarev.com/ghpvc/?username=kumarshailendra12&label=Profile%20Views&color=0e75b6&style=for-the-badge" 
+alt="Profile Views" />
+</a>
+
+&nbsp;&nbsp;
+
+</p>
 
 ## 📊 GitHub Streak
 
@@ -156,7 +173,7 @@ alt="GitHub Streak" />
 
 </p>
 
-
+&nbsp;&nbsp;
 
 ## 📈 Git Log --Graph --All
 
