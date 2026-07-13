@@ -53,6 +53,31 @@ Passionate about cloud technologies, continuous learning, and building efficient
 <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
 <a href="https://apple.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="macOS" title="macOS" width="36" height="36" /></a>
 
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" title="Jenkins" width="36" height="36" />
+</a>
+
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="36" height="36" />
+</a>
+
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" width="36" height="36" />
+</a>
+
+<a href="https://helm.sh/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" title="Helm" width="36" height="36" />
+</a>
+
+<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36" />
+</a>
+
+
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="36" height="36" />
+</a>
+
 <!-- Add these if available in the generator -->
 <!-- AWS | Jenkins | Terraform | Ansible | Helm | GitHub Actions | Argo CD | Prometheus | Grafana | SonarQube | Nginx | Maven -->
 </p>
