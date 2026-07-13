@@ -17,15 +17,17 @@
 <p align="center">
 
 
+<a href="https://www.linkedin.com/in/shailendra-kumar-8946b9212" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Shailendra%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+
 <a href="https://github.com/kumarshailendra12" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-Followers-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/shailendra-kumar-8946b9212" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Shailendra%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;&nbsp;
+
 
 <a href="https://instagram.com/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
