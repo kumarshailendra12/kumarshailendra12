@@ -22,7 +22,7 @@ When I'm not working, I enjoy exploring new cloud services, learning emerging De
 ## ☁️ Cloud, DevOps & Infrastructure
 
 <p align="left">
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="AWS_ICON_URL" alt="AWS" title="AWS" width="36" height="36" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="36" height="36" /></a>
 <a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
@@ -74,15 +74,14 @@ When I'm not working, I enjoy exploring new cloud services, learning emerging De
 </a>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kumarshailendra12&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
-alt="Shailendra's GitHub Stats" />
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarshailendra12&theme=tokyonight&hide_border=true" 
 alt="GitHub Streak" />
+</p>
 
 </p>
 
@@ -91,7 +90,9 @@ alt="GitHub Streak" />
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshailendra12&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
-alt="Top Languages" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumarshailendra12&layout=compact&langs_count=8&hide=html,css&theme=tokyonight&hide_border=true" 
+alt="DevOps Top Languages" />
+</p>
 
 </p>
