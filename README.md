@@ -53,20 +53,6 @@ When I'm not working, I enjoy exploring new cloud services, learning emerging De
 ### Socials
 
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://github.com/kumarshailendra12" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-</a>
-
-<a href="https://gitlab.com/kumarshailendra12" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" />
-</a>
-
-<a href="https://www.linkedin.com/in/shailendra-kumar-8946b9212" target="_blank">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-</a>
 </p>
 
 <a href="https://github.com/kumarshailendra12">
@@ -86,6 +72,15 @@ alt="GitHub Streak" />
 </p>
 
 
+
+## 📈 Git Log --Graph --All
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarshailendra12&theme=tokyo-night&hide_border=true&area=true" 
+alt="Contribution Graph" />
+</p>
+
+
 ## 💻 Top Languages
 
 <p align="center">
@@ -95,4 +90,34 @@ alt="GitHub Streak" />
 alt="DevOps Top Languages" />
 </p>
 
+</p>
+
+## 🌐 Connect --With --Me
+
+
+<p align="center">
+<a href="https://www.linkedin.com/in/shailendra-kumar-8946b9212" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/kumarshailendra12" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+🚀 Helping engineers learn DevOps through practical, real-world cloud projects.
+</p>
+
+<p align="center">
+☁️ Build • ⚙️ Automate • 🔒 Secure • 📈 Scale
+</p>
+
+<p align="center">
+⭐ Follow <b>kumarshailendra12</b> for DevOps projects, cloud automation, Kubernetes, AWS, Terraform, and CI/CD practices.
 </p>
