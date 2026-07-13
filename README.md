@@ -37,6 +37,8 @@ Passionate about cloud technologies, continuous learning, and building efficient
 * 🧠  I'm currently learning AWS DevOps, Kubernetes, Terraform, GitOps (Argo CD), and AI for DevOps
 * 💬  Ask me about Always learning, always automating. Open to networking, knowledge sharing, technical discussions, and exciting DevOps opportunities.
 
+## $ ls technologies/
+
 ## ☁️ Cloud, DevOps & Infrastructure
 
 <p align="left">
